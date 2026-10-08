@@ -46,7 +46,7 @@
       "category": "Apps",
       "subcategory": "Developer Tools",
       "url": "https://github.com/ShayanAbbas1/dbdelve",
-      "image": "https://raw.githubusercontent.com/ShayanAbbas1/dbdelve/main/assets/screenshot.png",
+      "image": "https://raw.githubusercontent.com/ShayanAbbas1/dbdelve/main/assets/linux/icons/dbdelve-256.png",
       "description": "Multi-engine fast, modern and lightweight DB Client with a focus on beautiful transparent UI and staying snappy on large amounts of data."
     },
     {
@@ -318,6 +318,14 @@
       "url": "https://github.com/egoist/waku",
       "image": "https://raw.githubusercontent.com/egoist/waku/main/website/public/app-icon.png",
       "description": "A fast, native desktop app for working with local coding agents."
+    },
+    {
+      "name": "Zaku",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/buildzaku/zaku",
+      "image": "https://raw.githubusercontent.com/buildzaku/zaku/main/crates/zaku/resources/app-icon-no-padding.png",
+      "description": "A native Rust, local-first, open-source API client engineered for speed and productivity."
     },
     {
       "name": "zed",
@@ -717,6 +725,13 @@
       "url": "https://github.com/DevPlus31/declarative-gpui",
       "image": "https://raw.githubusercontent.com/DevPlus31/declarative-gpui/main/examples/screenshots/card.png",
       "description": "A declarative ui! macro with Tailwind-style tokens, real Rust control flow, and zero runtime overhead."
+    },
+    {
+      "name": "Ely GPUI Component",
+      "category": "Libraries",
+      "url": "https://github.com/ZacharyZhang-NY/Ely-GPUI-Components",
+      "image": "https://raw.githubusercontent.com/ZacharyZhang-NY/Ely-GPUI-Components/main/logo.png",
+      "description": "A GPUI component library with light and dark themes and a live WebAssembly gallery."
     },
     {
       "name": "ferrum-flow",
